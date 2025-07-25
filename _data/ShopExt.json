@@ -3688,96 +3688,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy enjoys being fed on by sanguophages, he loves to feel the rush of extasis that comes with the bite.",
-      "stats": [],
-      "conflicts": [
-        "wimp",
-        "sanguofriend",
-        "sanguophobe"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "sanguofriend",
-          "sanguophobe"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Sanguophage Feed Relationship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SFR_Sanguophile",
-      "name": "sanguophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy understands that sanguophages need blood to survive and is okay with helping a sanguophage friend out by gifting some blood.",
-      "stats": [],
-      "conflicts": [
-        "sanguophile",
-        "sanguophobe",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "sanguophile",
-          "sanguophobe",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Sanguophage Feed Relationship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SFR_Sanguofriend",
-      "name": "sanguofriend"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy hates sanguophages and will always feel on edge when around them.",
-      "stats": [],
-      "conflicts": [
-        "sanguophile",
-        "sanguofriend",
-        "kind"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "sanguophile",
-          "sanguofriend",
-          "kind"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Sanguophage Feed Relationship",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SFR_Sanguophobe",
-      "name": "sanguophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy's mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence.",
       "stats": [
         "-1.00% sanity gain per day"
@@ -3973,7 +3883,8 @@
           "+16.0C Min comfortable temperature",
           "+26.0C Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3995,7 +3906,8 @@
           "+16.0C Min comfortable temperature",
           "+26.0C Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
