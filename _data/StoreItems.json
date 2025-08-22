@@ -8683,54 +8683,6 @@
       "price": 250
     },
     {
-      "abr": "personabondeffector",
-      "category": "Items",
-      "defname": "MPT_BladelinkUncoder",
-      "price": 2500
-    },
-    {
-      "abr": "personareformateffector",
-      "category": "Items",
-      "defname": "MPT_BladelinkReroller",
-      "price": 833
-    },
-    {
-      "abr": "personaextensioneffector",
-      "category": "Items",
-      "defname": "MPT_BladelinkExalt",
-      "price": 2500
-    },
-    {
-      "abr": "personareductioneffector",
-      "category": "Items",
-      "defname": "MPT_BladelinkAnnul",
-      "price": 1667
-    },
-    {
-      "abr": "personaconsolidationeffector",
-      "category": "Items",
-      "defname": "MPT_BladelinkTargetedAnnul",
-      "price": 6667
-    },
-    {
-      "abr": "personatransfereffector",
-      "category": "Items",
-      "defname": "MPT_BladelinkTargetedTraitTransferer",
-      "price": 6667
-    },
-    {
-      "abr": "personarecombinationeffector",
-      "category": "Items",
-      "defname": "MPT_BladelinkRecombinator",
-      "price": 2917
-    },
-    {
-      "abr": "personaamplifyingrod",
-      "category": "Persona weapons",
-      "defname": "MPT_MeleeWeapon_PsyfocusStaffBladelink",
-      "price": 3333
-    },
-    {
       "abr": "nutrientpastefeeder",
       "category": "Furniture",
       "defname": "VNPE_NutrientPasteFeeder",
@@ -15457,11 +15409,2105 @@
       "price": 3
     },
     {
+      "abr": "2-tierdisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_TwoTierDisplayShelf",
+      "price": 148
+    },
+    {
+      "abr": "corpsefridge",
+      "category": "Storage",
+      "defname": "sbz_CorpseFridge",
+      "price": 375
+    },
+    {
+      "abr": "crate",
+      "category": "Storage",
+      "defname": "sbz_MidCrate",
+      "price": 145
+    },
+    {
+      "abr": "displaycabinet",
+      "category": "Storage",
+      "defname": "sbz_DisplayCabinet",
+      "price": 115
+    },
+    {
+      "abr": "displaycase",
+      "category": "Storage",
+      "defname": "sbz_DisplayTable",
+      "price": 41
+    },
+    {
+      "abr": "displayshelf",
+      "category": "Storage",
+      "defname": "sbz_DisplayShelf",
+      "price": 82
+    },
+    {
+      "abr": "doublechestfridge",
+      "category": "Storage",
+      "defname": "sbz_DoubleChestFridge",
+      "price": 189
+    },
+    {
+      "abr": "doublewallfridge",
+      "category": "Storage",
+      "defname": "sbz_DoubleWallFridge",
+      "price": 189
+    },
+    {
+      "abr": "fridge",
+      "category": "Storage",
+      "defname": "sbz_Fridge",
+      "price": 107
+    },
+    {
+      "abr": "gravship2-tiershelf",
+      "category": "Storage",
+      "defname": "sbz_GravshipTwoTierShelf",
+      "price": 142
+    },
+    {
+      "abr": "gravshipcrate",
+      "category": "Storage",
+      "defname": "sbz_GravshipCrate",
+      "price": 392
+    },
+    {
+      "abr": "gravshipshelf",
+      "category": "Storage",
+      "defname": "sbz_GravshipShelf",
+      "price": 78
+    },
+    {
+      "abr": "gravshipweaponrack",
+      "category": "Storage",
+      "defname": "sbz_GravshipWeaponRack",
+      "price": 39
+    },
+    {
+      "abr": "hangershelf",
+      "category": "Storage",
+      "defname": "sbz_WideHangerShelf",
+      "price": 115
+    },
+    {
+      "abr": "horizontalweaponrack",
+      "category": "Storage",
+      "defname": "sbz_HorizontalWeaponRack",
+      "price": 148
+    },
+    {
+      "abr": "largecrate",
+      "category": "Storage",
+      "defname": "sbz_Crate",
+      "price": 282
+    },
+    {
+      "abr": "largefridge",
+      "category": "Storage",
+      "defname": "sbz_LargeFridge",
+      "price": 358
+    },
+    {
+      "abr": "meathook",
+      "category": "Storage",
+      "defname": "sbz_MeatHook",
+      "price": 148
+    },
+    {
+      "abr": "minipallet",
+      "category": "Storage",
+      "defname": "sbz_MiniPallet",
+      "price": 74
+    },
+    {
+      "abr": "narrowdisplaycabinet",
+      "category": "Storage",
+      "defname": "sbz_NarrowDisplayCabinet",
+      "price": 58
+    },
+    {
+      "abr": "narrowhangershelf",
+      "category": "Storage",
+      "defname": "sbz_HangerShelf",
+      "price": 58
+    },
+    {
+      "abr": "narrowtalldisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_NarrowTallDisplayShelf",
+      "price": 74
+    },
+    {
+      "abr": "openshelf",
+      "category": "Storage",
+      "defname": "sbz_OpenShelf",
+      "price": 148
+    },
+    {
+      "abr": "pallet",
+      "category": "Storage",
+      "defname": "sbz_Pallet",
+      "price": 282
+    },
+    {
+      "abr": "singlechestfridge",
+      "category": "Storage",
+      "defname": "sbz_SingleChestFridge",
+      "price": 123
+    },
+    {
+      "abr": "singlewallfridge",
+      "category": "Storage",
+      "defname": "sbz_SingleWallFridge",
+      "price": 123
+    },
+    {
+      "abr": "smallcrate",
+      "category": "Storage",
+      "defname": "sbz_SmallCrate",
+      "price": 74
+    },
+    {
+      "abr": "smalldisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_SmallDisplayShelf",
+      "price": 41
+    },
+    {
+      "abr": "talldisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_TallDisplayShelf",
+      "price": 148
+    },
+    {
+      "abr": "textilerack",
+      "category": "Storage",
+      "defname": "sbz_TextileRack",
+      "price": 141
+    },
+    {
+      "abr": "vacslipsuit",
+      "category": "Armor",
+      "defname": "VacSlipsuit",
+      "price": 1508
+    },
+    {
+      "abr": "verticalweaponrack",
+      "category": "Storage",
+      "defname": "sbz_VerticalWeaponRack",
+      "price": 148
+    },
+    {
+      "abr": "weaponrack",
+      "category": "Storage",
+      "defname": "sbz_WeaponRack",
+      "price": 76
+    },
+    {
+      "abr": "childvacslipsuit",
+      "category": "Armor",
+      "defname": "KidVacSlipsuit",
+      "price": 1508
+    },
+    {
+      "abr": "gravshipglassshelf",
+      "category": "Storage",
+      "defname": "sbz_GravshipGlassShelf",
+      "price": 78
+    },
+    {
+      "abr": "largegravshipcrate",
+      "category": "Storage",
+      "defname": "sbz_LargeGravshipCrate",
+      "price": 892
+    },
+    {
+      "abr": "longgravshipcrate",
+      "category": "Storage",
+      "defname": "sbz_LongGravshipCrate",
+      "price": 983
+    },
+    {
+      "abr": "smallgravshipshelf",
+      "category": "Storage",
+      "defname": "sbz_SmallGravshipShelf",
+      "price": 39
+    },
+    {
+      "abr": "arc",
+      "category": "Special",
+      "defname": "VQE_Genetron_Basic",
+      "price": 6417
+    },
+    {
+      "abr": "mechanizedkidoutfitstand",
+      "category": "Furniture",
+      "defname": "OutfitStandsPlus_MechanizedKidOutfitStand",
+      "price": 383
+    },
+    {
+      "abr": "mechanizedoutfitstand",
+      "category": "Furniture",
+      "defname": "OutfitStandsPlus_MechanizedOutfitStand",
+      "price": 383
+    },
+    {
+      "abr": "mendingkidoutfitstand",
+      "category": "Furniture",
+      "defname": "OutfitStandsPlus_MendingKidOutfitStand",
+      "price": 1300
+    },
+    {
+      "abr": "mendingoutfitstand",
+      "category": "Furniture",
+      "defname": "OutfitStandsPlus_MendingOutfitStand",
+      "price": 1300
+    },
+    {
+      "abr": "groynehelmet",
+      "category": "Helmet module",
+      "defname": "DMS_Module_Groyne_Helmet",
+      "price": 683
+    },
+    {
+      "abr": "stahlhelmhelmet",
+      "category": "Helmet module",
+      "defname": "DMS_Module_Stahlhelm_Helmet",
+      "price": 767
+    },
+    {
+      "abr": "2a38m",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_2A38M",
+      "price": 2000
+    },
+    {
+      "abr": "2a46mjusticegavel",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_JusticeGavel",
+      "price": 12050
+    },
+    {
+      "abr": "activeprotectionsystem",
+      "category": "Left shoulder module",
+      "defname": "DMS_Module_APS",
+      "price": 1992
+    },
+    {
+      "abr": "additionalarmorplating",
+      "category": "Automatroid mods",
+      "defname": "DMS_BF_ExtendArmor",
+      "price": 867
+    },
+    {
+      "abr": "aerialautocannon",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AerialAutocannon",
+      "price": 2125
+    },
+    {
+      "abr": "alligatorsnapper",
+      "category": "Animal",
+      "defname": "DMS_Chelydridae_MainBattleTank",
+      "price": 3733
+    },
+    {
+      "abr": "ampflamerpistol",
+      "category": "Walker module",
+      "defname": "AMP_Module_Flamer",
+      "price": 992
+    },
+    {
+      "abr": "amppistol",
+      "category": "Walker module",
+      "defname": "AMP_Module_PT",
+      "price": 783
+    },
+    {
+      "abr": "ampsubmachinegun",
+      "category": "Walker module",
+      "defname": "AMP_Module_SMG",
+      "price": 1292
+    },
+    {
+      "abr": "amplifiedmobilityplatform(module)",
+      "category": "Walker module",
+      "defname": "AMP_Module",
+      "price": 5942
+    },
+    {
+      "abr": "armorpad",
+      "category": "Left shoulder module",
+      "defname": "DMS_Module_ArmorPad",
+      "price": 1617
+    },
+    {
+      "abr": "armycap",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_ArmyCap",
+      "price": 165
+    },
+    {
+      "abr": "armysteed",
+      "category": "Animal",
+      "defname": "DMS_ArmySteed_APC",
+      "price": 3733
+    },
+    {
+      "abr": "artifuscle",
+      "category": "Manufactured",
+      "defname": "Artifuscle",
+      "price": 8
+    },
+    {
+      "abr": "artifusclechamber",
+      "category": "Production",
+      "defname": "DMS_TableArtifuscle",
+      "price": 1100
+    },
+    {
+      "abr": "assaultpiercer",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AssaultPiercer",
+      "price": 1567
+    },
+    {
+      "abr": "at-34yettacoremodule",
+      "category": "Core module",
+      "defname": "DMS_Module_AT34_Core",
+      "price": 5192
+    },
+    {
+      "abr": "at-34yettahelmet",
+      "category": "Helmet module",
+      "defname": "DMS_Module_AT34_Helmet",
+      "price": 767
+    },
+    {
+      "abr": "atlantgrenadelauncher",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AtlantGrenadeLauncher",
+      "price": 2017
+    },
+    {
+      "abr": "ballisticshield",
+      "category": "Attachment module",
+      "defname": "DMS_Module_Shield",
+      "price": 2425
+    },
+    {
+      "abr": "beret",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_Beret",
+      "price": 165
+    },
+    {
+      "abr": "biomechanicalneurochord",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticSpine",
+      "price": 1567
+    },
+    {
+      "abr": "bionicsuit",
+      "category": "Armor",
+      "defname": "DMS_Apparel_BionicSuit",
+      "price": 1083
+    },
+    {
+      "abr": "biosyntheticarm",
+      "category": "Bionic",
+      "defname": "DMS_SyntheticArm",
+      "price": 492
+    },
+    {
+      "abr": "biosyntheticleg",
+      "category": "Bionic",
+      "defname": "DMS_SyntheticLeg",
+      "price": 492
+    },
+    {
+      "abr": "blasterscreenshell",
+      "category": "Mortar shells",
+      "defname": "Shell_BlasterSmoke",
+      "price": 92
+    },
+    {
+      "abr": "boidcontroller",
+      "category": "Mechtech",
+      "defname": "DMS_MechLink_Nerfed",
+      "price": 2000
+    },
+    {
+      "abr": "boltcannon",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SniperCannon",
+      "price": 2450
+    },
+    {
+      "abr": "burstthruster",
+      "category": "Pack module",
+      "defname": "DMS_Module_JumpThruster",
+      "price": 1225
+    },
+    {
+      "abr": "cargopack",
+      "category": "Pack module",
+      "defname": "DMS_Module_PackCargo",
+      "price": 1033
+    },
+    {
+      "abr": "ceramicplates",
+      "category": "Automatroid mods",
+      "defname": "DMS_CeramicsPlating",
+      "price": 100
+    },
+    {
+      "abr": "ceramics",
+      "category": "Raw resources",
+      "defname": "DMS_Ceramics",
+      "price": 3
+    },
+    {
+      "abr": "chameleon",
+      "category": "Animal",
+      "defname": "DMS_Chameleon_TD",
+      "price": 3733
+    },
+    {
+      "abr": "clustercontrolchipsets",
+      "category": "Manufactured",
+      "defname": "ComponentControlChip",
+      "price": 2000
+    },
+    {
+      "abr": "clustertransceiver",
+      "category": "Mechtech",
+      "defname": "DMS_MechLink",
+      "price": 3333
+    },
+    {
+      "abr": "combatsword",
+      "category": "Equipment module",
+      "defname": "DMS_Module_CombatSword",
+      "price": 1900
+    },
+    {
+      "abr": "c-ration",
+      "category": "Drugs",
+      "defname": "DMS_CombatRation",
+      "price": 30
+    },
+    {
+      "abr": "disposablelauncher",
+      "category": "Utility",
+      "defname": "DMS_DeposableRocketLauncher",
+      "price": 417
+    },
+    {
+      "abr": "doorbuster",
+      "category": "Automatroid weapon",
+      "defname": "DMS_DoorBreaker",
+      "price": 2142
+    },
+    {
+      "abr": "dragoondmr",
+      "category": "Equipment module",
+      "defname": "DMS_Module_WeaponDMR",
+      "price": 4100
+    },
+    {
+      "abr": "dragoonlmg",
+      "category": "Equipment module",
+      "defname": "DMS_Module_WeaponLmg",
+      "price": 2100
+    },
+    {
+      "abr": "dragoonshotgun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Dragoon_Shotgun",
+      "price": 1617
+    },
+    {
+      "abr": "dragoontomahawk",
+      "category": "Melee weapons",
+      "defname": "DMS_Dragoon_Axe",
+      "price": 1533
+    },
+    {
+      "abr": "efpsuit",
+      "category": "Armor",
+      "defname": "DMS_Apparel_PilotSuit",
+      "price": 792
+    },
+    {
+      "abr": "electronicrepairkit",
+      "category": "Misc",
+      "defname": "DMSAC_Kit_Electronic",
+      "price": 1667
+    },
+    {
+      "abr": "elephantrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_ElephantGun",
+      "price": 617
+    },
+    {
+      "abr": "emotionfilter",
+      "category": "Bionic",
+      "defname": "DMS_SensoryFilter",
+      "price": 617
+    },
+    {
+      "abr": "encryptedtransmitter",
+      "category": "Misc",
+      "defname": "DMS_EncryptedTransmitter",
+      "price": 167
+    },
+    {
+      "abr": "engineeringpack",
+      "category": "Pack module",
+      "defname": "DMS_Module_PackEngineering",
+      "price": 633
+    },
+    {
+      "abr": "exoskeletondagger",
+      "category": "Walker module",
+      "defname": "AMP_Module_Dagger",
+      "price": 238
+    },
+    {
+      "abr": "extendedcargorack",
+      "category": "Automatroid mods",
+      "defname": "DMS_BF_ExtendCargo",
+      "price": 258
+    },
+    {
+      "abr": "f/a-47arsenalangelcoremodule",
+      "category": "Core module",
+      "defname": "DMS_Module_FA47_Core",
+      "price": 10067
+    },
+    {
+      "abr": "f/a-47arsenalangelhelmet",
+      "category": "Helmet module",
+      "defname": "DMS_Module_FA47_Helmet",
+      "price": 2092
+    },
+    {
+      "abr": "facilityintel",
+      "category": "Misc",
+      "defname": "DMSAC_FacilityIntel",
+      "price": 1667
+    },
+    {
+      "abr": "firecontrolsystem",
+      "category": "Manufactured",
+      "defname": "ComponentFireControl",
+      "price": 833
+    },
+    {
+      "abr": "flameblaster",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Flameblaster",
+      "price": 1667
+    },
+    {
+      "abr": "fuelbarrel",
+      "category": "Security",
+      "defname": "DMSAC_Building_FuelBarrel",
+      "price": 333
+    },
+    {
+      "abr": "garrisoncap",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_GarrisonCap",
+      "price": 165
+    },
+    {
+      "abr": "garrisoncoat",
+      "category": "Misc",
+      "defname": "DMS_Apparel_GarrisonCoat",
+      "price": 309
+    },
+    {
+      "abr": "gau-19/aattacker",
+      "category": "Automatroid weapon",
+      "defname": "DMS_GAU19Gatlinggun",
+      "price": 2883
+    },
+    {
+      "abr": "gau-4vulcan",
+      "category": "Automatroid weapon",
+      "defname": "DMS_GAU4Gatlinggun_Hold",
+      "price": 4600
+    },
+    {
+      "abr": "gau-8avenger",
+      "category": "Automatroid weapon",
+      "defname": "DMS_GAU8Gatlinggun",
+      "price": 6883
+    },
+    {
+      "abr": "gau-90",
+      "category": "Walker module",
+      "defname": "AMP_Module_Rifle",
+      "price": 2717
+    },
+    {
+      "abr": "gsh30-6flogger",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gsh30Gatlinggun",
+      "price": 5300
+    },
+    {
+      "abr": "hazardsuit",
+      "category": "Misc",
+      "defname": "DMS_Apparel_HazardSuit",
+      "price": 933
+    },
+    {
+      "abr": "heavyhydraulicframe",
+      "category": "Automatroid mods",
+      "defname": "DMS_TB_HeavyHydraulicFrame",
+      "price": 1833
+    },
+    {
+      "abr": "hounddronepack",
+      "category": "Utility",
+      "defname": "DMS_Apparel_PackHound",
+      "price": 1667
+    },
+    {
+      "abr": "human",
+      "category": "Animal",
+      "defname": "Dummy",
+      "price": 2917
+    },
+    {
+      "abr": "humanmeat",
+      "category": "Meat",
+      "defname": "Meat_Dummy",
+      "price": 1
+    },
+    {
+      "abr": "hydraulicframepack",
+      "category": "Pack module",
+      "defname": "DMS_Module_PackFrame",
+      "price": 2892
+    },
+    {
+      "abr": "infraredsensor",
+      "category": "Attachment module",
+      "defname": "DMS_Module_InfraredSensor",
+      "price": 817
+    },
+    {
+      "abr": "kidbutton-downshirt",
+      "category": "Misc",
+      "defname": "Apparel_KidButtondownShirt",
+      "price": 80
+    },
+    {
+      "abr": "kidduster",
+      "category": "Misc",
+      "defname": "Apparel_KidDuster",
+      "price": 181
+    },
+    {
+      "abr": "kidflakhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_AdvancedKidHelmet",
+      "price": 233
+    },
+    {
+      "abr": "kidflakjacket",
+      "category": "Armor",
+      "defname": "Apparel_KidFlakJacket",
+      "price": 294
+    },
+    {
+      "abr": "kidflakpants",
+      "category": "Armor",
+      "defname": "Apparel_KidFlakPants",
+      "price": 229
+    },
+    {
+      "abr": "kidflakvest",
+      "category": "Armor",
+      "defname": "Apparel_KidFlakVest",
+      "price": 229
+    },
+    {
+      "abr": "kidjacket",
+      "category": "Misc",
+      "defname": "Apparel_KidJacket",
+      "price": 150
+    },
+    {
+      "abr": "kidmarinearmor",
+      "category": "Armor",
+      "defname": "Apparel_KidPowerArmor",
+      "price": 1808
+    },
+    {
+      "abr": "kidpsychicfoilhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_KidPsychicFoil",
+      "price": 417
+    },
+    {
+      "abr": "kidreconarmor",
+      "category": "Armor",
+      "defname": "Apparel_KidArmorRecon",
+      "price": 1200
+    },
+    {
+      "abr": "kidsquirearmor",
+      "category": "Armor",
+      "defname": "Apparel_KidPlateArmor",
+      "price": 467
+    },
+    {
+      "abr": "kidwarmask",
+      "category": "Headgear",
+      "defname": "Apparel_KidWarMask",
+      "price": 48
+    },
+    {
+      "abr": "knuckledusterrevolver",
+      "category": "Automatroid weapon",
+      "defname": "DMS_KnuckledusterRevolver",
+      "price": 75
+    },
+    {
+      "abr": "kordmachinegun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_KordMachineGun",
+      "price": 2058
+    },
+    {
+      "abr": "labfurnace",
+      "category": "Production",
+      "defname": "DMS_LabFurnace",
+      "price": 500
+    },
+    {
+      "abr": "labreactor",
+      "category": "Production",
+      "defname": "DMS_LabReactor",
+      "price": 825
+    },
+    {
+      "abr": "m214",
+      "category": "Automatroid weapon",
+      "defname": "DMS_M214Gatlinggun",
+      "price": 1858
+    },
+    {
+      "abr": "machete",
+      "category": "Melee weapons",
+      "defname": "DMS_Machete",
+      "price": 1708
+    },
+    {
+      "abr": "machineryprinter",
+      "category": "Production",
+      "defname": "DMS_TableMachinePrinter",
+      "price": 1567
+    },
+    {
+      "abr": "mechamr",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AntiMaterialRifle",
+      "price": 1692
+    },
+    {
+      "abr": "mechanti-tankrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_DragoonRifle",
+      "price": 2992
+    },
+    {
+      "abr": "mechassaultrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AssaultRifle",
+      "price": 1442
+    },
+    {
+      "abr": "mechassaultshotgun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AssaultShotgun",
+      "price": 1583
+    },
+    {
+      "abr": "mechautocannon",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Autocannon",
+      "price": 2325
+    },
+    {
+      "abr": "mechbattlerifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_BattleRifle",
+      "price": 1550
+    },
+    {
+      "abr": "mechgrenadelauncher",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AutomaticGrenadeLauncher",
+      "price": 2483
+    },
+    {
+      "abr": "mechheavygrenadelauncher",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_DragoonGrenade",
+      "price": 2583
+    },
+    {
+      "abr": "mechhmg",
+      "category": "Automatroid weapon",
+      "defname": "DMS_HeavyMachineGun",
+      "price": 2125
+    },
+    {
+      "abr": "mechlmg",
+      "category": "Automatroid weapon",
+      "defname": "DMS_LightMachineGun",
+      "price": 1800
+    },
+    {
+      "abr": "mechmarksmanrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_MarksmanRifle",
+      "price": 1792
+    },
+    {
+      "abr": "mechpistol",
+      "category": "Automatroid weapon",
+      "defname": "DMS_TacticalPistol",
+      "price": 608
+    },
+    {
+      "abr": "mechsemi-autorifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SemiAutoRifle",
+      "price": 1050
+    },
+    {
+      "abr": "mechaneuralarm",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticArm",
+      "price": 917
+    },
+    {
+      "abr": "mechaneuralkidney",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticKidney",
+      "price": 1033
+    },
+    {
+      "abr": "mechaneuralleg",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticLeg",
+      "price": 917
+    },
+    {
+      "abr": "mechaneurallung",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticLung",
+      "price": 1033
+    },
+    {
+      "abr": "mechaneuralvisualsensor",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticEye",
+      "price": 792
+    },
+    {
+      "abr": "mechanicrepairkit",
+      "category": "Misc",
+      "defname": "DMSAC_Kit_Mechanic",
+      "price": 1667
+    },
+    {
+      "abr": "mikhailmachinegun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_PKM",
+      "price": 1667
+    },
+    {
+      "abr": "missilepod",
+      "category": "Left shoulder module",
+      "defname": "DMS_Module_MissilePod",
+      "price": 1383
+    },
+    {
+      "abr": "missilepodplus",
+      "category": "Left shoulder module",
+      "defname": "DMS_Module_MissilePodPlus",
+      "price": 2258
+    },
+    {
+      "abr": "mk44bushmasteriiautocannon",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_MK44_Autocannon",
+      "price": 5008
+    },
+    {
+      "abr": "mpqfs-85mdawnblade",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_DawnbladeM",
+      "price": 8567
+    },
+    {
+      "abr": "mule",
+      "category": "Animal",
+      "defname": "DMS_Mule_ATV",
+      "price": 3417
+    },
+    {
+      "abr": "neuroglue",
+      "category": "Drugs",
+      "defname": "Neuroglue",
+      "price": 30
+    },
+    {
+      "abr": "nightvisiongoggles",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_Gunlink",
+      "price": 575
+    },
+    {
+      "abr": "nuclearbattery",
+      "category": "Automatroid mods",
+      "defname": "DMS_NuclearBattery",
+      "price": 3333
+    },
+    {
+      "abr": "nutritionport",
+      "category": "Bionic",
+      "defname": "DMS_NutrientPort",
+      "price": 783
+    },
+    {
+      "abr": "operatorhelmet",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_ArrayHelmet",
+      "price": 1742
+    },
+    {
+      "abr": "payloadcabinet",
+      "category": "Attachment module",
+      "defname": "DMS_Module_CargoBox",
+      "price": 425
+    },
+    {
+      "abr": "pdw",
+      "category": "Automatroid weapon",
+      "defname": "DMS_PDW",
+      "price": 1092
+    },
+    {
+      "abr": "pf-3arbeiterpoweredframe",
+      "category": "Core module",
+      "defname": "DMS_Module_PF3_Core",
+      "price": 1667
+    },
+    {
+      "abr": "pilebunker",
+      "category": "Equipment module",
+      "defname": "DMS_Module_PileBunker",
+      "price": 1558
+    },
+    {
+      "abr": "plasticfiber",
+      "category": "Textiles",
+      "defname": "Plasfiber",
+      "price": 8
+    },
+    {
+      "abr": "polyester",
+      "category": "Textiles",
+      "defname": "Polyester",
+      "price": 3
+    },
+    {
+      "abr": "poweredexoskeletalunit",
+      "category": "Armor",
+      "defname": "DMS_Apparel_PowerSkeleton",
+      "price": 2267
+    },
+    {
+      "abr": "pressurechamber",
+      "category": "Production",
+      "defname": "DMS_ReactionChamber",
+      "price": 1517
+    },
+    {
+      "abr": "pulseshield",
+      "category": "Attachment module",
+      "defname": "DMS_Module_PulseShield",
+      "price": 1675
+    },
+    {
+      "abr": "pv-4mibochehelmet",
+      "category": "Helmet module",
+      "defname": "DMS_Module_PV4_Helmet",
+      "price": 1300
+    },
+    {
+      "abr": "pv-4oldbuddyframemodule",
+      "category": "Core module",
+      "defname": "DMS_Module_PV4_Core",
+      "price": 9800
+    },
+    {
+      "abr": "pv-8zyklopframemodule",
+      "category": "Core module",
+      "defname": "DMS_Module_PV8_Core",
+      "price": 9800
+    },
+    {
+      "abr": "pv-8zyklophelmet",
+      "category": "Helmet module",
+      "defname": "DMS_Module_PV8_Helmet",
+      "price": 1300
+    },
+    {
+      "abr": "recoillessrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_Recoilless",
+      "price": 2583
+    },
+    {
+      "abr": "recovertransmitter",
+      "category": "Misc",
+      "defname": "DMSAC_RecoverTransmitter",
+      "price": 250
+    },
+    {
+      "abr": "reinforcedframe",
+      "category": "Automatroid mods",
+      "defname": "DMS_ReinforcedFrame",
+      "price": 500
+    },
+    {
+      "abr": "relayantenna",
+      "category": "Right shoulder module",
+      "defname": "DMS_Module_RelayAntenna",
+      "price": 717
+    },
+    {
+      "abr": "relaypack",
+      "category": "Pack module",
+      "defname": "DMS_Module_PackControlRelay",
+      "price": 2967
+    },
+    {
+      "abr": "rifledsluggun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_RiotShotgun",
+      "price": 458
+    },
+    {
+      "abr": "riotlmg",
+      "category": "Automatroid weapon",
+      "defname": "DMS_MiniMachineGun",
+      "price": 675
+    },
+    {
+      "abr": "riotrevolver",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Revolver",
+      "price": 279
+    },
+    {
+      "abr": "scaffold",
+      "category": "Misc",
+      "defname": "MF_Building_Scaffold",
+      "price": 342
+    },
+    {
+      "abr": "scaffoldstair",
+      "category": "Misc",
+      "defname": "MF_Building_ScaffoldStair",
+      "price": 342
+    },
+    {
+      "abr": "sinteringfurnace",
+      "category": "Production",
+      "defname": "DMS_Furnace",
+      "price": 1500
+    },
+    {
+      "abr": "siteintel",
+      "category": "Misc",
+      "defname": "DMSAC_SiteIntel",
+      "price": 1667
+    },
+    {
+      "abr": "smokelauncher",
+      "category": "Left shoulder module",
+      "defname": "DMS_Module_SmokeLauncher",
+      "price": 212
+    },
+    {
+      "abr": "snipergrenadelauncher",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SniperGrenadeLauncher",
+      "price": 1758
+    },
+    {
+      "abr": "softkepi",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_SoftKepi",
+      "price": 165
+    },
+    {
+      "abr": "stamponent",
+      "category": "Manufactured",
+      "defname": "ComponentStamped",
+      "price": 100
+    },
+    {
+      "abr": "stealthmask",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_StealthMask",
+      "price": 75
+    },
+    {
+      "abr": "stugnalauncher",
+      "category": "Left shoulder module",
+      "defname": "DMS_Module_StugnaLauncher",
+      "price": 2992
+    },
+    {
+      "abr": "stugnamissilelauncher",
+      "category": "Utility",
+      "defname": "DMSAC_StugnaATGM",
+      "price": 2833
+    },
+    {
+      "abr": "stunbaton",
+      "category": "Melee weapons",
+      "defname": "DMS_StunBaton",
+      "price": 883
+    },
+    {
+      "abr": "survivalrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SurvivalRifle",
+      "price": 233
+    },
+    {
+      "abr": "swarmrocketpod",
+      "category": "Left shoulder module",
+      "defname": "DMS_Module_SwarmMissilePod",
+      "price": 1133
+    },
+    {
+      "abr": "synthetictendon",
+      "category": "Automatroid mods",
+      "defname": "DMS_SyntheticTendon",
+      "price": 533
+    },
+    {
+      "abr": "t/rcomponent",
+      "category": "Manufactured",
+      "defname": "ComponentTransmitter",
+      "price": 833
+    },
+    {
+      "abr": "tacticalcloak",
+      "category": "Misc",
+      "defname": "DMS_Apparel_TacticalCloak",
+      "price": 1633
+    },
+    {
+      "abr": "tacticalhelmet",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_TacticalHelmet",
+      "price": 408
+    },
+    {
+      "abr": "tacticalvest",
+      "category": "Armor",
+      "defname": "DMS_Apparel_TacticalVest",
+      "price": 450
+    },
+    {
+      "abr": "technicalinstruction",
+      "category": "Books",
+      "defname": "DMS_Schematic",
+      "price": 400
+    },
+    {
+      "abr": "techprint(advanceddragoonengineering)",
+      "category": "Techprints",
+      "defname": "Techprint_DMS_MobileDragoonElite",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(electronicmodules)",
+      "category": "Techprints",
+      "defname": "Techprint_DMS_MobileDragoonModule",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(mainbattledragoon)",
+      "category": "Techprints",
+      "defname": "Techprint_DMS_MobileDragoonAdvanced",
+      "price": 2500
+    },
+    {
+      "abr": "techprint(mobiledragoon)",
+      "category": "Techprints",
+      "defname": "Techprint_DMS_MobileDragoon",
+      "price": 2500
+    },
+    {
+      "abr": "techprint(walkerframe)",
+      "category": "Techprints",
+      "defname": "Techprint_WG_HeavyExoskeleton",
+      "price": 1667
+    },
+    {
+      "abr": "tulacombatshotgun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_KS23K",
+      "price": 1583
+    },
+    {
+      "abr": "tungsteel",
+      "category": "Raw resources",
+      "defname": "Tungsteel",
+      "price": 13
+    },
+    {
+      "abr": "uniform",
+      "category": "Armor",
+      "defname": "DMS_Apparel_UnitSuit",
+      "price": 280
+    },
+    {
+      "abr": "vasilek",
+      "category": "Security",
+      "defname": "DMS_Turret_Vasilek",
+      "price": 2850
+    },
+    {
+      "abr": "verlingbriddronebelt",
+      "category": "Utility",
+      "defname": "DMS_Apparel_PackVerling",
+      "price": 1333
+    },
+    {
+      "abr": "vladimirovhmg",
+      "category": "Automatroid weapon",
+      "defname": "DMS_VladimirovMachineGun",
+      "price": 2550
+    },
+    {
+      "abr": "vykhloprifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_VykhlopRifle",
+      "price": 758
+    },
+    {
+      "abr": "wetwarecomputer",
+      "category": "Manufactured",
+      "defname": "Neurocomputer",
+      "price": 1000
+    },
+    {
+      "abr": "workarm",
+      "category": "Attachment module",
+      "defname": "DMS_Module_WorkArm",
+      "price": 933
+    },
+    {
+      "abr": "yekaterinrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_YekaterinRifle",
+      "price": 1675
+    },
+    {
+      "abr": "zlobinrevolver",
+      "category": "Automatroid weapon",
+      "defname": "DMS_ZlobinRevolver",
+      "price": 244
+    },
+    {
+      "abr": "zlobinrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_ZlobinRifle",
+      "price": 642
+    },
+    {
+      "abr": "ac-8autocannon",
+      "category": "Super support weapons",
+      "defname": "RNGun_AC8_Autocannon",
+      "price": 3000
+    },
+    {
+      "abr": "af-91armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_AF91Armor",
+      "price": 2567
+    },
+    {
+      "abr": "af-91helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_AF91Helmet",
+      "price": 875
+    },
+    {
+      "abr": "anti-armorrocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_AntiArmor_Rocket",
+      "price": 1667
+    },
+    {
+      "abr": "apw-1anti-materielrifle",
+      "category": "Super support weapons",
+      "defname": "RNGun_APW1_AMR",
+      "price": 2500
+    },
+    {
+      "abr": "ar-23chaosliberator",
+      "category": "Super firearms",
+      "defname": "RNGun_AR23ChaosLiberator_Rifle",
+      "price": 933
+    },
+    {
+      "abr": "ar-23liberator",
+      "category": "Super firearms",
+      "defname": "RNGun_AR23Liberator_Rifle",
+      "price": 933
+    },
+    {
+      "abr": "ar-23liberatorpenetrator",
+      "category": "Super firearms",
+      "defname": "RNGun_AR23LiberatorPenetrator_Rifle",
+      "price": 933
+    },
+    {
+      "abr": "ar-23aliberatorcarbine",
+      "category": "Super firearms",
+      "defname": "RNGun_AR23ALiberatorCarbine_Rifle",
+      "price": 883
+    },
+    {
+      "abr": "autocannonpack",
+      "category": "Super accessories",
+      "defname": "RNApparelHD2_Backpack_AutocannonPack",
+      "price": 683
+    },
+    {
+      "abr": "b-01armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_B01Armor",
+      "price": 2567
+    },
+    {
+      "abr": "b-01helmet(a)",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_B01Helmet",
+      "price": 875
+    },
+    {
+      "abr": "b-01helmet(b)",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_B01Helmet_B",
+      "price": 875
+    },
+    {
+      "abr": "b-24armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_B24Armor",
+      "price": 2567
+    },
+    {
+      "abr": "cd-02armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_CD02Armor",
+      "price": 2567
+    },
+    {
+      "abr": "cd-02helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_CD02Helmet",
+      "price": 875
+    },
+    {
+      "abr": "ce-07armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_CE07Armor",
+      "price": 2567
+    },
+    {
+      "abr": "ce-07helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_CE07Helmet",
+      "price": 875
+    },
+    {
+      "abr": "ce-81armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_CE81Armor",
+      "price": 2567
+    },
+    {
+      "abr": "ce-81helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_CE81Helmet",
+      "price": 875
+    },
+    {
+      "abr": "cm-09helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_CM09Helmet",
+      "price": 875
+    },
+    {
+      "abr": "cm-21armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_CM21Armor",
+      "price": 2567
+    },
+    {
+      "abr": "cm-21helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_CM21Helmet",
+      "price": 875
+    },
+    {
+      "abr": "cqc-5combathatchet",
+      "category": "Melee weapons",
+      "defname": "RNMeleeWeapon_CQC5_CombatHatchet",
+      "price": 246
+    },
+    {
+      "abr": "dp-00armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_DP00Armor",
+      "price": 2567
+    },
+    {
+      "abr": "dp-00helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_DP00Helmet",
+      "price": 875
+    },
+    {
+      "abr": "dp-40helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_DP40Helmet",
+      "price": 875
+    },
+    {
+      "abr": "dp-53armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_DP53Armor",
+      "price": 2567
+    },
+    {
+      "abr": "dp-53helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_DP53Helmet",
+      "price": 875
+    },
+    {
+      "abr": "fs-05heavyarmor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_FS05HeavyArmor",
+      "price": 3392
+    },
+    {
+      "abr": "fs-23heavyarmor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_FS23HeavyArmor",
+      "price": 3392
+    },
+    {
+      "abr": "fs-23helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_FS23Helmet",
+      "price": 875
+    },
+    {
+      "abr": "g-21grenadelauncher",
+      "category": "Super support weapons",
+      "defname": "RNGun_SEAFG21_GrenadeLauncher",
+      "price": 1417
+    },
+    {
+      "abr": "g-31ultimatum",
+      "category": "Super support weapons",
+      "defname": "RNGun_SEAFG31_Ultimatum",
+      "price": 2083
+    },
+    {
+      "abr": "gr-8recoillessrifle",
+      "category": "Super support weapons",
+      "defname": "RNGun_GR8_RecoillessRifle",
+      "price": 3333
+    },
+    {
+      "abr": "hellbombpack",
+      "category": "Utility",
+      "defname": "Apparel_hellbombpack",
+      "price": 975
+    },
+    {
+      "abr": "helldivercape(chaosdiver)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_Chaosdiver",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(coverofdarkness)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_CoverOfDarkness",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(crestinghonor)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_CrestingHonor",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(crimsonfang)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_CrimsonFang",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(eagle'sfury)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_EaglesFury",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(executioner'scanopy)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_ExecutionersCanopy",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(fallenheroes)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_FallenHeroes",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(foesmasher)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_Foesmasher",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(fruitoffaultlessvirtue)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_FruitOfFaultlessVirtue",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(prideofthewhisleblower)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_PrideOfTheWhisleblower",
+      "price": 367
+    },
+    {
+      "abr": "helldivercape(willofthepeople)",
+      "category": "Super capes",
+      "defname": "RH2ApparelHD2_Cape_WillOfThePeople",
+      "price": 367
+    },
+    {
+      "abr": "industrialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_industrial",
+      "price": 3
+    },
+    {
+      "abr": "industrialexplosiveammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_industrial_fire",
+      "price": 3
+    },
+    {
+      "abr": "industrialspecialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_industrial_emp",
+      "price": 3
+    },
+    {
+      "abr": "las-16sickle",
+      "category": "Super firearms",
+      "defname": "RNGun_LAS16Sickle_Rifle",
+      "price": 800
+    },
+    {
+      "abr": "las-58talon",
+      "category": "Super firearms",
+      "defname": "RNGun_LAS58Talon_Revolver",
+      "price": 317
+    },
+    {
+      "abr": "las-99quasarcannon",
+      "category": "Super support weapons",
+      "defname": "RNGun_LAS99_QuasarCannon",
+      "price": 3500
+    },
+    {
+      "abr": "m-105stalwart",
+      "category": "Super support weapons",
+      "defname": "RNGun_M105_Stalwart",
+      "price": 700
+    },
+    {
+      "abr": "mg-206heavymachinegun",
+      "category": "Super support weapons",
+      "defname": "RNGun_MG206_HMG",
+      "price": 758
+    },
+    {
+      "abr": "mg-43machinegun",
+      "category": "Super support weapons",
+      "defname": "RNGun_MG43_GPMG",
+      "price": 758
+    },
+    {
+      "abr": "p-2peacemaker",
+      "category": "Super firearms",
+      "defname": "RNGun_P2Peacemaker_Pistol",
+      "price": 285
+    },
+    {
+      "abr": "p-4senator",
+      "category": "Super firearms",
+      "defname": "RNGun_P4Senator_Revolver",
+      "price": 317
+    },
+    {
+      "abr": "ph-202heavyarmor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_PH202HeavyArmor",
+      "price": 3392
+    },
+    {
+      "abr": "ph-202helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_PH202Helmet",
+      "price": 875
+    },
+    {
+      "abr": "ph-9armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_PH9Armor",
+      "price": 2567
+    },
+    {
+      "abr": "ph-9helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_PH9Helmet",
+      "price": 875
+    },
+    {
+      "abr": "plas-1scorcher",
+      "category": "Super firearms",
+      "defname": "RNGun_PLAS1_Scorcher",
+      "price": 1667
+    },
+    {
+      "abr": "primitiveexplosiveammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_primitive_fire",
+      "price": 1
+    },
+    {
+      "abr": "primitivespecialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_primitive_emp",
+      "price": 1
+    },
+    {
+      "abr": "r-36eruptor",
+      "category": "Super firearms",
+      "defname": "RNGun_R36_Eruptor",
+      "price": 2000
+    },
+    {
+      "abr": "r-63diligence",
+      "category": "Super firearms",
+      "defname": "RNGun_R63Diligence_DMR",
+      "price": 658
+    },
+    {
+      "abr": "r-63csdiligencecountersniper",
+      "category": "Super firearms",
+      "defname": "RNGun_R63CSDiligenceCounterSniper_DMR",
+      "price": 758
+    },
+    {
+      "abr": "recoillessriflepack",
+      "category": "Super accessories",
+      "defname": "RNApparelHD2_Backpack_RecoillessRiflePack",
+      "price": 683
+    },
+    {
+      "abr": "rs-422railgun",
+      "category": "Super support weapons",
+      "defname": "RNGun_RS422_Railgun",
+      "price": 3000
+    },
+    {
+      "abr": "sa-25armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_SA25Armor",
+      "price": 2567
+    },
+    {
+      "abr": "sa-25helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_SA25Helmet",
+      "price": 875
+    },
+    {
+      "abr": "sc-30armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_SC30Armor",
+      "price": 2567
+    },
+    {
+      "abr": "sc-30helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_SC30Helmet",
+      "price": 875
+    },
+    {
+      "abr": "sc-34armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_SC34Armor",
+      "price": 2567
+    },
+    {
+      "abr": "sc-34helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_SC34Helmet",
+      "price": 875
+    },
+    {
+      "abr": "sc-37armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_SC37Armor",
+      "price": 2567
+    },
+    {
+      "abr": "sc-37helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_SC37Helmet",
+      "price": 875
+    },
+    {
+      "abr": "seafarmor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_SEAFArmor",
+      "price": 2567
+    },
+    {
+      "abr": "seafheavyarmor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_SEAFHeavyArmor",
+      "price": 3392
+    },
+    {
+      "abr": "seafheavyhelmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_SEAFHeavyHelmet",
+      "price": 875
+    },
+    {
+      "abr": "seafhelmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_SEAFHelmet",
+      "price": 875
+    },
+    {
+      "abr": "seafmachiningtable",
+      "category": "Production",
+      "defname": "RH2Bench_SEAFMachiningBench",
+      "price": 892
+    },
+    {
+      "abr": "seafpatrolpack",
+      "category": "Super accessories",
+      "defname": "RNApparelHD2_Backpack_SEAFPack",
+      "price": 683
+    },
+    {
+      "abr": "seafshieldpack",
+      "category": "Super accessories",
+      "defname": "RNApparelHD2_Backpack_ShieldPack",
+      "price": 683
+    },
+    {
+      "abr": "seaftrooperarmor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_SEAFTrooperArmor",
+      "price": 3392
+    },
+    {
+      "abr": "seaftrooperhelmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_SEAFTrooperHelmet",
+      "price": 875
+    },
+    {
+      "abr": "sg-20halt",
+      "category": "Super firearms",
+      "defname": "RNGun_SG20Halt_Shotgun",
+      "price": 550
+    },
+    {
+      "abr": "sg-22bushwhacker",
+      "category": "Super firearms",
+      "defname": "RNGun_SG22Bushwhacker_Shotgun",
+      "price": 375
+    },
+    {
+      "abr": "sg-225iebreakerincendiary",
+      "category": "Super firearms",
+      "defname": "RNGun_SG225IEBreakerIncendiary_Shotgun",
+      "price": 783
+    },
+    {
+      "abr": "sg-8punisher",
+      "category": "Super firearms",
+      "defname": "RNGun_SG8Punisher_Shotgun",
+      "price": 425
+    },
+    {
+      "abr": "smg-32reprimand",
+      "category": "Super firearms",
+      "defname": "RNGun_SMG32Reprimand_SMG",
+      "price": 542
+    },
+    {
+      "abr": "spacerammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_spacer",
+      "price": 4
+    },
+    {
+      "abr": "spacerexplosiveammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_spacer_fire",
+      "price": 4
+    },
+    {
+      "abr": "spacerspecialammo",
+      "category": "Ammo",
+      "defname": "yy_ammo_spacer_emp",
+      "price": 12
+    },
+    {
+      "abr": "supercitizencasuals",
+      "category": "Super clothing",
+      "defname": "RH2ApparelHD2_SuperCitizen_Casuals",
+      "price": 492
+    },
+    {
+      "abr": "supplypack",
+      "category": "Super accessories",
+      "defname": "RNApparelHD2_Backpack_SupplyPack",
+      "price": 683
+    },
+    {
+      "abr": "tr-117armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_TR117Armor",
+      "price": 2567
+    },
+    {
+      "abr": "tr-117helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_TR117Helmet",
+      "price": 875
+    },
+    {
+      "abr": "tr-40armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_TR40Armor",
+      "price": 2567
+    },
+    {
+      "abr": "tr-40helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_TR40Helmet",
+      "price": 875
+    },
+    {
+      "abr": "tr-7armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_TR7Armor",
+      "price": 2567
+    },
+    {
+      "abr": "tr-7helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_TR7Helmet",
+      "price": 875
+    },
+    {
+      "abr": "uf-16armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_UF16Armor",
+      "price": 2567
+    },
+    {
+      "abr": "uf-16helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_UF16Helmet",
+      "price": 875
+    },
+    {
+      "abr": "uf-50armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_UF50Armor",
+      "price": 2567
+    },
+    {
+      "abr": "uf-50helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_UF50Helmet",
+      "price": 875
+    },
+    {
+      "abr": "uf-84armor",
+      "category": "Super armor",
+      "defname": "RH2ApparelHD2_UF84Armor",
+      "price": 2567
+    },
+    {
+      "abr": "uf-84helmet",
+      "category": "SEAF headgear",
+      "defname": "RH2ApparelHD2_UF84Helmet",
+      "price": 875
+    },
+    {
+      "abr": "gau19/ashouldermount",
+      "category": "Right shoulder module",
+      "defname": "DMS_Module_TurretPackGAU",
+      "price": 2983
+    },
+    {
+      "abr": "kordshouldermount",
+      "category": "Right shoulder module",
+      "defname": "DMS_Module_TurretPackHeavy",
+      "price": 2417
+    },
+    {
+      "abr": "lmgshouldermount",
+      "category": "Right shoulder module",
+      "defname": "DMS_Module_TurretPackLight",
+      "price": 2083
+    },
+    {
+      "abr": "machinecabinet",
+      "category": "Misc",
+      "defname": "DMS_MachineCabinet",
+      "price": 1425
+    },
+    {
+      "abr": "fireworklauncher",
+      "category": "Misc",
+      "defname": "FireworkLauncher",
+      "price": 83
+    },
+    {
+      "abr": "flakboots",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Footwear_FlakBoots",
+      "price": 218
+    },
+    {
+      "abr": "flakgloves",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Handwear_FlakGloves",
+      "price": 218
+    },
+    {
+      "abr": "heavypowerarmorboots",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Footwear_HeavyMarineBoots",
+      "price": 908
+    },
+    {
+      "abr": "heavypowerarmorgauntlets",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Handwear_HeavyMarineGloves",
+      "price": 908
+    },
+    {
+      "abr": "reconboots",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Footwear_ReconBoots",
+      "price": 483
+    },
+    {
+      "abr": "recongloves",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Handwear_ReconGloves",
+      "price": 483
+    },
+    {
+      "abr": "riotboots",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Footwear_RiotBoots",
+      "price": 218
+    },
+    {
+      "abr": "riotgloves",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Handwear_RiotGloves",
+      "price": 254
+    },
+    {
+      "abr": "vacsuitboots",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Footwear_VacsuitBoots",
+      "price": 256
+    },
+    {
+      "abr": "vacsuitgloves",
+      "category": "Handwear and footwear",
+      "defname": "CAT_Handwear_VacsuitGloves",
+      "price": 256
+    },
+    {
+      "abr": "wireheadfloorhatch(broad)",
+      "category": "Furniture",
+      "defname": "TlenoWirehead_Cover_Broad",
+      "price": 483
+    },
+    {
+      "abr": "wireheadfloorhatch(medium)",
+      "category": "Furniture",
+      "defname": "TlenoWirehead_Cover_Medium",
+      "price": 323
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 2577
+  "total": 2918
 }
