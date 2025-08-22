@@ -3,13 +3,19 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.4.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "telardo",
     "name": "Better Gene Graphics Framework",
     "steamId": "2880940958",
-    "version": "1.6.0.0"
+    "version": "1.6.0.1+972cbbe1a9fded8c7ea997800ee529e99479958b"
   },
   {
     "author": "金兔子拉面 and telardo",
@@ -28,6 +34,60 @@
     "name": "All Ideoligions Are Fluid",
     "steamId": "2872901762",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "3521312241",
+    "version": "1.6+7e77b7fdba2daa472a5b7c2b35ac17c149dffa99"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Exosuit Framework",
+    "steamId": "3352894993",
+    "version": "1.0.0+1dc343fb257394b4edba8a989d6374c5d40cf76e"
+  },
+  {
+    "author": "AOBA",
+    "name": "Fortified Features Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "AobaKuma, Bread Mo, Bill Doors, KV4EX and Mortis",
+    "name": "The Dead Man's Switch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - MobileDragoon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Amplified Mobility Platform",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Holgast",
@@ -68,7 +128,7 @@
   {
     "author": "Fuu Chan",
     "name": "Blood Animations",
-    "steamId": "3521404421",
+    "steamId": "3228047321",
     "version": "1.0.0.0"
   },
   {
@@ -78,26 +138,8 @@
     "version": "3.3.2.0"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.6.3.3"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Cherry Picker",
-    "steamId": "3521312241",
-    "version": "1.6+7e77b7fdba2daa472a5b7c2b35ac17c149dffa99"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -106,6 +148,24 @@
     "name": "Vanilla Factions Expanded - Empire",
     "steamId": "2938820380",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "TheCatLover366",
+    "name": "Cat's Boots and Gloves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
@@ -120,12 +180,6 @@
     "version": null
   },
   {
-    "author": "Ren7z",
-    "name": "Clean Textures - less glare",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PeteTimesSix",
     "name": "Compact Hediffs",
     "steamId": "2031734067",
@@ -134,6 +188,18 @@
   {
     "author": "Sea and RussianGolden",
     "name": "Consistent Gene Inheritance (1.6 VERSION)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Crazy Crab",
+    "name": "Crazy Crab`s Body",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ghostie",
+    "name": "Cute Boy Hairstyles",
     "steamId": null,
     "version": null
   },
@@ -153,7 +219,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.9.1"
+    "version": "1.9.2"
   },
   {
     "author": "Dragonmaster Cale",
@@ -168,10 +234,16 @@
     "version": "1.0.0"
   },
   {
+    "author": "Halituis Amaricanus",
+    "name": "Dune Style Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
-    "version": "1.0.0+033d9d34cec8c12c4fb4e4b3cb84514a6eef4f4f"
+    "version": "1.0.0+e5d17a4a8361c15e1e93864fc9803aa7fd552eef"
   },
   {
     "author": "Erin",
@@ -188,6 +260,12 @@
   {
     "author": "Erin",
     "name": "Erin's Hairstyles 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "Fireworks",
     "steamId": null,
     "version": null
   },
@@ -282,16 +360,22 @@
     "version": "4.1.0.0"
   },
   {
+    "author": "Goblins4Lyfe",
+    "name": "Kid Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
-    "version": "1.0.0+124dfea3ab8311d5b8aa89b8a8b68628dd5385ea"
+    "version": "1.0.0+43e5ebe4c2698f91cea25391238c33497f978c57"
   },
   {
-    "author": "Arquebus",
-    "name": "More Persona Traits",
-    "steamId": "2863308112",
-    "version": "1.2.9332.18067"
+    "author": "Witek",
+    "name": "Mechs can haul to charger",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Tidal",
@@ -336,10 +420,28 @@
     "version": null
   },
   {
+    "author": "Edern",
+    "name": "No Random Apparel on Ideology Edit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rhadamant",
+    "name": "No Time Change Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sea",
     "name": "Offspring Inherit Xenogenes (Continued)",
     "steamId": "3266000468",
     "version": "1.6.0"
+  },
+  {
+    "author": "khamenman",
+    "name": "Outfit Stands Plus",
+    "steamId": "3545172389",
+    "version": "1.0.0.0"
   },
   {
     "author": "Peppsen",
@@ -352,12 +454,6 @@
     "name": "Persistent Precepts",
     "steamId": "2944765939",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Pesky",
-    "name": "Pesky's Arcanist Ideology Style Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mehni",
@@ -420,10 +516,22 @@
     "version": null
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
+    "author": "opponent019",
+    "name": "Sanguophage Feed Relationship",
+    "steamId": "2884586228",
+    "version": "1.0.0"
+  },
+  {
+    "author": "ScrubDaddy",
+    "name": "ScrubDaddy's Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Stokes52",
+    "name": "Simple Cape and Hood Retexture",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Longman",
@@ -438,8 +546,26 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kupie",
     "name": "Smoothed Floors Worth Nothing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Detvisor and Sovereign",
+    "name": "Surrogate Mechanoid",
+    "steamId": "3246748490",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Divinorium",
+    "name": "Tainted Renaming",
     "steamId": null,
     "version": null
   },
@@ -454,6 +580,24 @@
     "name": "TendYourself",
     "steamId": "3476618866",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - AncientCorps",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0+362fa21b197153d9c2e47cdc262e281e5ad3dbc6"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - Motorized",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "The Village Guy",
@@ -498,16 +642,58 @@
     "version": null
   },
   {
+    "author": "MrKociak",
+    "name": "Tunnelers ARE deep drills",
+    "steamId": "3521193199",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UNAGI",
+    "name": "UNAGI Vanilla Hairs うなぎのバニラ髪",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Use Bedrolls - Continued",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.6+36c29671c10764fa702953ff7de8b52159959ead"
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "Andromeda",
     "name": "Useful Marks",
     "steamId": "3506573327",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Bread mo",
+    "name": "Vanilla Quests Expanded - The Generator",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SaltBabe",
+    "name": "VQE-Generator In Space",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kilo",
+    "name": "VacSlipsuit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Mechanitor",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg Bjornson and Oskar Potocki",
@@ -530,8 +716,8 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
     "name": "Vanilla Animals Expanded — Waste Animals",
-    "steamId": null,
-    "version": null
+    "steamId": "2962126499",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -548,12 +734,6 @@
   {
     "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
     "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -822,18 +1002,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Bread mo",
-    "name": "Vanilla Quests Expanded - The Generator",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, Taranchuk, Reann Shepard and xrushha",
     "name": "Vanilla Races Expanded - Archon",
     "steamId": "3067715093",
@@ -990,12 +1158,6 @@
     "version": "1.4.1.0"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0+bf35b7259c7f669516f2b8d1071181a5cc0e67e7"
-  },
-  {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
     "name": "Vanilla Vehicles Expanded",
     "steamId": "3014906877",
@@ -1033,12 +1195,6 @@
   },
   {
     "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": "2454918354",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Tribal",
     "steamId": null,
     "version": null
@@ -1046,6 +1202,24 @@
   {
     "author": "FluffyTowels",
     "name": "Warcaskets can haul!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": "2454918354",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sk",
+    "name": "Weapon Mastery",
+    "steamId": "2766683678",
+    "version": "2.3.3"
+  },
+  {
+    "author": "いのしし_3",
+    "name": "Weapon Sounds Overhaul",
     "steamId": null,
     "version": null
   },
@@ -1058,6 +1232,12 @@
   {
     "author": "Tixiv",
     "name": "Who shot my leg off?",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tleno",
+    "name": "Wirehead Style",
     "steamId": null,
     "version": null
   },
@@ -1086,16 +1266,40 @@
     "version": null
   },
   {
+    "author": "Bradson and Gordohn",
+    "name": "Xenotype Spawn Control",
+    "steamId": "2891975564",
+    "version": "1.1.2+49d56f6e2064b08bf24583a0f82b3e599731cf9c"
+  },
+  {
     "author": "YAYO and Soky",
     "name": "Yayo's Animation (Continued)",
     "steamId": "2877292196",
     "version": "1.0.0.0"
   },
   {
+    "author": "YAYO",
+    "name": "Yayo's Combat 3 (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SpaceMoth",
     "name": "You Drive, I Sleep",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "kenx00x",
+    "name": "[1.6 Fork] Xenotype And Ideology Buttons TitleScreen",
+    "steamId": "3524968515",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AlexisPopcorn",
+    "name": "[AP] Hunting Meme",
+    "steamId": "3535691822",
+    "version": "1.0.0.0"
   },
   {
     "author": "Nera",
@@ -1117,6 +1321,12 @@
   },
   {
     "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
@@ -1134,14 +1344,44 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Helldivers: Super Apparel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Helldivers: Super Firearms",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "XeoNovaDan",
     "name": "[XND] Visible Pants",
     "steamId": "2264108215",
     "version": "2.6"
   },
   {
-    "author": "㋰",
-    "name": "[㋰] MUMUMU Body",
+    "author": "seobongzu",
+    "name": "[sbz] Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Gravship Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RHO-915",
+    "name": "hellbombpack",
     "steamId": null,
     "version": null
   }
